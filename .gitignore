@@ -1,3 +1,3 @@
-.vscode
-_._
-.pyc
+*.vscode
+_*_
+*.pyc
